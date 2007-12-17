@@ -10,7 +10,6 @@ Release: %{release}
 Source0: multidesk.tar.bz2
 License: Public Domain
 Group: Toys
-BuildRoot: %{_tmppath}/%{name}-buildroot
 BuildArch: noarch
 Url: http://lordoric.free.fr/fortunes
 BuildRequires: fortune-mod
