@@ -1,6 +1,6 @@
 %define name fortune-MDOS-fr 
 %define version 20040104
-%define release %mkrel 7
+%define release 8
 
 Summary: The best of Jayce about MultiDeskOS
 Summary(fr): Le meilleur de Jayce à propos de MultiDeskOS 
