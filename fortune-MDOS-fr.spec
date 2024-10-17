@@ -12,7 +12,7 @@ License: Public Domain
 Group: Toys
 BuildRoot: %{_tmppath}/%{name}-buildroot
 BuildArch: noarch
-Url: http://lordoric.free.fr/fortunes
+Url: https://lordoric.free.fr/fortunes
 BuildRequires: fortune-mod
 Requires: fortune-mod locales-fr
 
